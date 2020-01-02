@@ -1,0 +1,20 @@
+{
+  "name": "Custom",
+  "fonts": {
+    "headings": "Kreon",
+    "base": "Roboto"
+  },
+  "desc": "A DIY theme cloned from Bootstrap 4.",
+  "custom": "html {font-size: .8rem;}\n@include media-breakpoint-up(sm) {html {font-size: .9rem;}}\n@include media-breakpoint-up(md) {html {font-size: .9rem;}}\n@include media-breakpoint-up(lg) {html {font-size: 1rem;}}",
+  "colors": {
+    "primary": "#25c06f",
+    "secondary": "#8e8e8e",
+    "success": "#397ABA",
+    "danger": "#DB2133",
+    "info": "#41BEE1",
+    "warning": "#F3AC42",
+    "light": "#f8f9fa",
+    "dark": "#343a40"
+  },
+  "cloned": "Bootstrap 4"
+}
